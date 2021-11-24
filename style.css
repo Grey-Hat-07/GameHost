@@ -15,7 +15,8 @@
 }
 .card:hover{
     box-shadow: 0px 0px 80px 0px rgba(167, 71, 71, 0.75);
-    transition: 0.3s;
+    transition: all .5s ease-in-out; 
+    transform: scale(1.1);
 }
 .btn{
     font-family: 'Acme', sans-serif; 
