@@ -24,7 +24,9 @@
     
 }
 .counter{
-    background-color: rgb(77, 21, 77);
+    background: rgb(2,0,36);
+
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(30,49,80,1) 35%, rgba(99,64,143,1) 98%);
     color: rgb(160, 130, 33);
 }
 
